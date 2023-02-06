@@ -1,13 +1,15 @@
 # APS
 
-## Parte 1: Um Chatbot para o Discord - chatbot faz pequenos queries em um serviço externo como mapa, clima, cálculos matemáticos, etc.
+## Parte 0: Um chatbot para o Discord
 
-* Chatbot recebe comandos do tipo: `\run xxx xxx xxx`, em que `xxx` são parâmetros relevantes.
-* O chatbot deve reconhecer, usando regex, se os argumentos `xxx` não são válidos.
 * O comando `\source` retorna um link para o repositório onde está o código-fonte do chatbot.
 * O comando `\author` retorna o nome e e-mail do autor do chatbot.
 * O chatbot deve responder *educadamente* com a informação requisitada.
 
+## Parte 1: Chatbot faz pequenos queries em um serviço externo como mapa, clima, cálculos matemáticos, etc.
+
+* Chatbot recebe comandos do tipo: `\run xxx xxx xxx`, em que `xxx` são parâmetros relevantes.
+* O chatbot deve reconhecer, usando regex, se os argumentos `xxx` não são válidos.
 
 ## Parte 2: Chatbot faz webscrapping, guarda bases de dados e responde a queries de busca.
 
