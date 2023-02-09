@@ -18,7 +18,7 @@ Avaliação:
 * 100%: o chatbot e os arquivos de texto cumprem todos os requisitos
 * 0%: faltam requisitos a serem cumpridos
 
-Deadline: 19/fevereiro
+Deadline: 17/fevereiro
 
 ## Parte 1: Chatbot faz pequenos queries em um serviço externo como mapa, clima, bolsa de valores, etc.
 
