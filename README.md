@@ -5,6 +5,7 @@ A course on natural language processing
 
 * Tiago Tavares - tiagoft1@insper.edu.br - sala TI-25, 7o. andar, P1
 * Aulas ter/qui 9h45
+* Atendimento: quintas 13h30-15h00, sala TI-25, 7o. andar, P1
 
 ## Dinâmica das aulas
 
