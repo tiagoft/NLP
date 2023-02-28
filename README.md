@@ -1,6 +1,8 @@
 # NLP
 A course on natural language processing
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tiagoft/NLP/HEAD)
+
 ## Informações básicas
 
 * Tiago Tavares - tiagoft1@insper.edu.br - sala TI-25, 7o. andar, P1
