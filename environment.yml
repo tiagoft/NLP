@@ -1,0 +1,19 @@
+name: NLP
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - ipython
+  - pandas
+  - tqdm
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - nltk
+  - plotly
+  - numpy
+  - keras
+  - nbformat
+  - tensorflow
+
