@@ -15,5 +15,6 @@ dependencies:
   - numpy
   - keras
   - nbformat
-  - tensorflow
+  - pip:
+    - tensorflow
 
