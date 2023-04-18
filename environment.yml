@@ -4,17 +4,17 @@ channels:
   - defaults
 dependencies:
   - python=3.10
-  - pip
-  - pip:
-    - ipython
-    - pandas
-    - tqdm
-    - scikit-learn
-    - scipy
-    - matplotlib
-    - nltk
-    - plotly
-    - numpy
-    - nbformat
-    - tensorflow
+  # - pip
+  # - pip:
+  #   - ipython
+  #   - pandas
+  #   - tqdm
+  #   - scikit-learn
+  #   - scipy
+  #   - matplotlib
+  #   - nltk
+  #   - plotly
+  #   - numpy
+  #   - nbformat
+  #   - tensorflow
 
